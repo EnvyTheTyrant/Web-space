@@ -687,7 +687,7 @@ img {
     top: auto;
   }
 }
-.page-top .image__reile {
+.page-top .portfolio {
   background: url(../img/portfolio.jpg) no-repeat center;
   background-size: cover;
 }
